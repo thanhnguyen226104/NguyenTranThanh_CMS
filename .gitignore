@@ -1,0 +1,15 @@
+# Local/runtime files
+*.log
+.DS_Store
+Thumbs.db
+
+# WordPress-generated transient content
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backups/
+wp-content/ai1wm-backups/
+
+# Editor settings
+.idea/
+.vscode/
+
